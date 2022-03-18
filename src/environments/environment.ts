@@ -1,11 +1,11 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyAvbPZr7ewCALNTqgNunQjgw_G9S2oIiao',
-    authDomain: 'my-profile-cdb09.firebaseapp.com',
-    projectId: 'my-profile-cdb09',
-    storageBucket: 'my-profile-cdb09.appspot.com',
-    messagingSenderId: '1093120446960',
-    appId: '1:1093120446960:web:61fb1a42fba80b7bd98d35'
+    apiKey: "AIzaSyDd_oVKN55NtshMLxJF9sb_RdVraIKMtlI",
+    authDomain: "app01-9986f.firebaseapp.com",
+    projectId: "app01-9986f",
+    storageBucket: "app01-9986f.appspot.com",
+    messagingSenderId: "507703980482",
+    appId: "1:507703980482:web:d049969d8e685f1e7b665b"
   }
 };
